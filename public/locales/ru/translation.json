@@ -1,0 +1,70 @@
+{
+    "ministry": "МИНИСТЕРСТВО КУЛЬТУРЫ ТУРКМЕНИСТАНА",
+    "theatre_name": "Музыкально-драматический театр имени Махтумкули Туркменистана",
+    "all_rights_reserved": "Все права защищены",
+    "address": "город Ашхабад. улица Гёроглы. 65",
+    "theatre_address": "Адрес театра",
+    "theatre_phone_numbers": "Телефоны театра",
+    "reception": "приемная",
+    "kassa": "касса",
+
+    "nav_link_main": "Главная",
+    "nav_link_spectacles": "Спектакли",
+    "nav_link_repertoires": "Репертуары",
+    "nav_link_artists": "Творческая команда",
+    "nav_link_news": "Новости",
+    "nav_link_about": "О нас",
+    "nav_link_contact": "Связаться с нами",
+    "moments": "Моменты",
+
+    "spectacle_of_today": "СЕГОДНЯ СЦЕНА",
+    "no_spectacle_of_today": "НЕТ СЦЕНЫ СЕГОДНЯ",
+
+    "celebratio_spectacle": "Праздничная сцена",
+    "advertisement": "Реклама",
+
+    "year": "год",
+    "month": "месяц",
+    "search": "поиск",
+    "loading": "Загрузка..",
+    "read_more": "Читать далее..",
+    "all": "все",
+    "time": "Время",
+    "date": "Дата",
+    "running_time": "Продолжительность",
+    "categories": "категории",
+    
+    "spectacle": "спектакл",
+    "spectacle_name": "Название шоу",
+    "short_about_spectacle": "Коротко о сцене",
+    "about_spectacle": "Полная информация о сцене",
+    "floor_1": "1-й этаж",
+    "floor_2": "2-й этаж",
+    "ticket_prices": "Стоимость билета",
+
+    "no_repertoire": "Репертуар не установлен",
+
+    "artist": "Артист",
+    "artist_degrees": "Уровни артиста",
+    "artist_name": "Имя",
+    "about_artist": "О артисте",
+    "fullname": "Полное имя",
+    "date_of_birth": "Дата рождения",
+    "work_now": "Текущее место работы",
+
+    "full_info": "Полная информация",
+
+    "new": "Новость",
+    "our_address": "Наш адрес",
+    "phone_number": "Номер телефона",
+    "send_to_message": "Чтобы отправить нам электронное письмо",
+    "name_for_message_input": "Ваше имя",
+    "title_for_message_input": "Краткое название сообщения",
+    "content_for_message_input": "Сообщения",
+    "send_btn_for_message_input": "Отправлять",
+    
+    "by_date": "По дате..",
+    "clear": "очистить",
+    "future_spectacles": "Сцены для показа",
+    "past_spectacles": "Показанные сцены"
+}

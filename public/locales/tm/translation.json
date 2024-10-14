@@ -1,0 +1,71 @@
+{
+    "ministry": "TÜRKMENISTANYŇ MEDENIÝET MINISTRLIGI",
+    "theatre_name": "Türkmenistanyň Magtymguly adyndaky sazly drama teatry",
+    "all_rights_reserved": "Ähli hukuklary goragly",
+    "address": "Aşgabat şäheri, Görogly köçesi, 65-nji jaýy",
+    "theatre_address": "Teatryň salgysy",
+    "theatre_phone_numbers": "Teatryň telefon belgileri",
+    "reception": "kabulhana",
+    "kassa": "kassa",
+
+    "nav_link_main": "Baş sahypa",
+    "nav_link_spectacles": "Sahnalar",
+    "nav_link_repertoires": "Repertuarlar",
+    "nav_link_artists": "Döredijilik topary",
+    "nav_link_news": "Habarlar",
+    "nav_link_about": "Biz barada",
+    "nav_link_contact": "Habarlaşmak",
+    "moments": "PURSATLAR",
+
+    "spectacle_of_today": "ŞU GÜNKI SAHNA",
+    "no_spectacle_of_today": "ŞU GÜNKI SAHNA",
+
+    "celebratio_spectacle": "Baýramcylyk sahnasy",
+    "advertisement": "Bildiriş",
+
+    "year": "ýyl",
+    "month": "aý",
+    "search": "ählisi",
+    "loading": "Ýüklenilýär..",
+    "read_more": "Doly gör..",
+    "all": "ählisi",
+    "time": "Wagty",
+    "date": "Sene",
+    "running_time": "dowamlylygy",
+    "categories": "kategoriýalar",
+    
+    "spectacle": "Sahna",
+    "spectacle_name": "Sahna ady",
+    "short_about_spectacle": "Sahna barada gysgaca",
+    "about_spectacle": "Sahna barada doly maglumat",
+    "floor_1": "1-nji etaž",
+    "floor_2": "2-nji etaž",
+    "ticket_prices": "Bilet bahalary",
+
+    "no_repertoire": "Repertuar goyulmadyk",
+
+    "artist": "Artist",
+    "artist_degrees": "Artist derejeleri",
+    "artist_name": "Artist ady",
+    "about_artist": "Artist barada",
+    "fullname": "Doly ady",
+    "date_of_birth": "Doglan senesi",
+    "work_now": "Häzirki işleýän ýeri",
+
+    "full_info": "Doly maglumat",
+
+    "new": "Habar",
+    "our_address": "Salgymyz",
+    "phone_number": "Telefon belgi",
+    "send_to_message": "Bize hat ýollamak üçin",
+    "name_for_message_input": "Adyňyz",
+    "title_for_message_input": "Habaryň gysgaça ady",
+    "content_for_message_input": "Habar",
+    "send_btn_for_message_input": "Ugratmak",
+
+    "by_date": "Sene boýunça..",
+    "clear": "arassala",
+    "future_spectacles": "Görkezijek sahnalar",
+    "past_spectacles": "Görkezilen sahnalar"
+
+}

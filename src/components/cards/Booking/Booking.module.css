@@ -1,0 +1,46 @@
+.box {
+    border-radius: 6px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.fall__right {
+    rotate: 14deg;
+}
+.fall__left {
+    rotate: -14deg;
+}
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .25rem;
+}
+.justify_end {
+    justify-content: flex-end;
+}
+.justify_start {
+    justify-content: flex-start;
+}
+.seats {
+    display: flex;
+    gap: 4px;
+}
+.seat {
+    outline: none;
+    background-color: transparent;
+    border-radius: 40% 40% 0 0;
+    width: 30px;
+    height: 33px;
+    margin: .2px;
+    border: 0.3rem solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.highlight {
+    background: green;
+    color: white;
+}

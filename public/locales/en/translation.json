@@ -1,0 +1,70 @@
+{
+    "ministry": "MINISTRY OF CULTURE OF TURKMENISTAN",
+    "theatre_name": "Musical drama theatre named after Magtymguly of Turkmenistan",
+    "all_rights_reserved": "All rights reserved",
+    "address": "Ashgabat city. Gorogly Street. house 65",
+    "theatre_address": "Theatre address",
+    "theatre_phone_numbers": "Phone numbers of theatre",
+    "kassa": "box office",
+
+    "nav_link_main": "Main page",
+    "nav_link_spectacles": "Spectacles",
+    "nav_link_repertoires": "Repertoires",
+    "nav_link_artists": "The creative team",
+    "nav_link_news": "News",
+    "nav_link_about": "About us",
+    "nav_link_contact": "Contact",
+    "moments": "Moments",
+    
+    "spectacle_of_today": "TODAY'S SCENE",
+    "no_spectacle_of_today": "NO SCENE TODAY",
+
+    "celebratio_spectacle": "A festive scene",
+    "advertisement": "Advertising",
+
+    "year": "year",
+    "month": "month",
+    "search": "search",
+    "loading": "Loading..",
+    "read_more": "Read more..",
+    "all": "all",
+    "time": "Time",
+    "date": "Date",
+    "running_time": "Duration",
+    "categories": "categories",
+    
+    "spectacle": "spectacle",
+    "spectacle_name": "The name of the scene",
+    "short_about_spectacle": "Briefly about the scene",
+    "about_spectacle": "Full scene information",
+    "floor_1": "1-st floor",
+    "floor_2": "2-nd floor",
+    "ticket_prices": "Ticket prices",
+
+    "no_repertoire": "The repertoire is not set",
+
+    "artist": "Artist",
+    "artist_degrees": "Artist degrees",
+    "artist_name": "Artist name",
+    "about_artist": "About artist",
+    "fullname": "Full name",
+    "date_of_birth": "Date of birth",
+    "work_now": "Current place of employment",
+
+    "full_info": "Full details",
+
+    "new": "Piece of news",
+    "our_address": "Our address",
+    "phone_number": "Phone number",
+    "send_to_message": "To send us an email",
+    "name_for_message_input": "Your name",
+    "title_for_message_input": "Short title of message",
+    "content_for_message_input": "Message",
+    "send_btn_for_message_input": "Send",
+
+    
+    "by_date": "By date..",
+    "clear": "clean up",
+    "future_spectacles": "Scenes to be shown",
+    "past_spectacles": "Scenes shown"
+}

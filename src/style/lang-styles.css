@@ -1,0 +1,50 @@
+.lang-menu {
+    width: 100px;
+    text-align: right;
+    font-weight: 600;
+    font-size: 0.8em;
+    position: relative;
+    z-index: 100;
+}
+.lang-menu .selected-lang {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.langFlagImg {
+    width: 25px;
+    height: 30px;
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #f8f8f8;
+    position: absolute;
+    border-radius: 5px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+}
+
+
+.lang-menu ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer
+}
+.lang-menu ul li:hover {
+    background-color: #f2f2f2;
+}
+
+.lang-menu ul li span {
+    padding: 5px 10px;
+}
+.selectedLangBtn{
+    border-radius:5px;
+    background: radial-gradient(circle, rgb(14, 175, 62) 16%, rgb(25, 185, 73) 60%);
+    color: #ffffff;
+    padding: 2px 6px;
+    display: none;
+}
